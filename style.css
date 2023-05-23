@@ -1,0 +1,71 @@
+*{
+    margin: 2px 2px 2px 2px;
+    
+}
+img{
+    display: block;
+    margin: auto;
+}
+#nombre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+#carrera{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14;
+    color: darkgreen;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    font-weight: bold;
+}
+.sub{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    color: darkred;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
+article{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#tabla_materias{
+    background-color: darkkhaki;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+#tabla_f{
+    margin: auto;
+}
+#formulario{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+#form{
+    background-color: darkolivegreen;
+}
+input{
+    background-color: darkgray;
+}
+button{
+    background-color: darkkhaki;
+    display: grid;
+    margin-left: auto;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
